@@ -4,23 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e02855dbdb16ddab",
+        "id": "b70f69d40053e5bb",
         "type": "tabs",
         "children": [
           {
-            "id": "cf88ca4af5a9c3a2",
+            "id": "b004df53ec1d41aa",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_Tableau des albums.base",
-                "viewName": "Tableau"
+                "file": "Antipodes-/Antipodes- n°1 - L'Armée du crâne.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "_Tableau des albums"
+              "icon": "lucide-file",
+              "title": "Antipodes- n°1 - L'Armée du crâne"
+            }
+          },
+          {
+            "id": "f00e97856bc7f2b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Donjon.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Donjon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +208,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf88ca4af5a9c3a2",
+  "active": "f00e97856bc7f2b3",
   "lastOpenFiles": [
+    "images/donjon.jpg",
+    "images",
+    "Untitled Folder",
+    "donjon.jpg",
+    "Donjon.md",
+    "Antipodes-/Antipodes- n°1 - L'Armée du crâne.md",
+    "Antipodes-.md",
+    "Crépuscule/Crépuscule n°1 - Le Cimetière des dragons.md",
+    "_Tableau des albums.base",
     "Parade/Parade n°8 - L'Hostellerie des impôts.md",
     "Parade/Parade n°6 - Garderie pour petiots.md",
     "Parade/Parade n°3 - Le Jour des crapauds.md",
@@ -204,7 +229,6 @@
     "Parade/Parade n°11 - Éternel Repos.md",
     "Parade/Parade n°2 - Le Sage du ghetto.md",
     "Parade/Parade n°1 - Un donjon de trop.md",
-    "_Tableau des albums.base",
     "_Critiques par Ordre de Parution.base",
     "_Critiques par Ordre Chronologique.base",
     "Monsters/Monsters n°15 - Les Poupoutpapillonneurs.md",
@@ -218,11 +242,6 @@
     "Potron-Minet/Potron-Minet n°4 - Après la pluie.md",
     "Zénith/Zénith n°1 - Cœur de canard.md",
     "Zénith/Zénith n°2 - Le Roi de la bagarre.md",
-    "Zénith/Zénith n°3 - La Princesse des barbares.md",
-    "Zénith/Zénith n°4 - Sortilège et Avatar.md",
-    "Zénith/Zénith n°5 - Un mariage à part.md",
-    "Zénith/Zénith n°6 - Retour en fanfare.md",
-    "Zénith/Zénith n°9 - Larmes et Brouillard.md",
     "Untitled.txt",
     "public",
     "Sans titre.canvas",
@@ -235,11 +254,8 @@
     "Zénith/images/crepuscule_004.png",
     "Zénith/images/monsters_004.png",
     "Zénith/images/monsters_003.png",
-    "Zénith/images/crepuscule_003.png",
     "Zénith/images",
     "Potron-Minet/images",
-    "Parade/images",
-    "Monsters/images",
-    "Crépuscule/images"
+    "Parade/images"
   ]
 }

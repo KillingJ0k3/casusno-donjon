@@ -19,4 +19,4 @@ Pour relancer _[[Donjon]]_ il y a quelques années, Sfar et Trondheim ont décid
  
 Pourquoi pas mais est-ce qu'il était impératif de créer une nouvelle série pour ça ? Non. Les albums comportent de vraies longueurs (tout le début du tome 1, l'histoire du Questionneur, de sa famille et de ses sbires dans le tome 2) et l'intrigue, plus resserrée, avec quelques ellipses, aurait pu donner un tome de _[[Monsters]]_ réussi. Là on se trouve face à une série en deux tomes qui n'aura probablement pas de suite (rien depuis 2021), avec de jolis moments (la sirène du tome 1, les dragons du tome 2), plutôt bien dessinée par Grégory Panaccione mais concrètement il n'y a pas grand chose à se mettre sous la dent. 
 
-![[antipodes-_001.png]]
+![[antipodes-_001.png|w-75|center]]
