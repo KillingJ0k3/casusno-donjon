@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "31b092d568cc0da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e02855dbdb16ddab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf88ca4af5a9c3a2",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "_Tableau des albums.base",
+                "viewName": "Tableau"
+              },
+              "icon": "lucide-table",
+              "title": "_Tableau des albums"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69a4fa2c83e54738",
+    "type": "split",
+    "children": [
+      {
+        "id": "e343f8175809780b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2006da6c77321ae2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b024e4b57c3d301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "_Crépuscule_",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c44553fcaf106dd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1c1b55bbc7f9cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6637c85136d38ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5ae62255304d3be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "de48d1993f89870a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "34fe15cda57d4742",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "aa734e56d134c808",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "d73b15146b7080a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "717252057683ac02",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cf88ca4af5a9c3a2",
+  "lastOpenFiles": [
+    "Parade/Parade n°8 - L'Hostellerie des impôts.md",
+    "Parade/Parade n°6 - Garderie pour petiots.md",
+    "Parade/Parade n°3 - Le Jour des crapauds.md",
+    "Parade/Parade n°4 - Des fleurs et des marmots.md",
+    "Parade/Parade n°5 - Technique Grogro.md",
+    "Parade/Parade n°7 - Le Sirop des costauds.md",
+    "Parade/Parade n°9 - Nécromancien pour de faux.md",
+    "Parade/Parade n°11 - Éternel Repos.md",
+    "Parade/Parade n°2 - Le Sage du ghetto.md",
+    "Parade/Parade n°1 - Un donjon de trop.md",
+    "_Tableau des albums.base",
+    "_Critiques par Ordre de Parution.base",
+    "_Critiques par Ordre Chronologique.base",
+    "Monsters/Monsters n°15 - Les Poupoutpapillonneurs.md",
+    "Zénith/Zénith n°8 - En sa mémoire.md",
+    "Zénith/Zénith n°7 - Hors des remparts.md",
+    "index.md",
+    "Monsters/Monsters n°18 - Noces de fleurs.md",
+    "Potron-Minet/Potron-Minet n°1 - La Chemise de la nuit.md",
+    "Potron-Minet/Potron-Minet n°2 - Un justicier dans l'ennui.md",
+    "Potron-Minet/Potron-Minet n°3 - Une jeunesse qui s'enfuit.md",
+    "Potron-Minet/Potron-Minet n°4 - Après la pluie.md",
+    "Zénith/Zénith n°1 - Cœur de canard.md",
+    "Zénith/Zénith n°2 - Le Roi de la bagarre.md",
+    "Zénith/Zénith n°3 - La Princesse des barbares.md",
+    "Zénith/Zénith n°4 - Sortilège et Avatar.md",
+    "Zénith/Zénith n°5 - Un mariage à part.md",
+    "Zénith/Zénith n°6 - Retour en fanfare.md",
+    "Zénith/Zénith n°9 - Larmes et Brouillard.md",
+    "Untitled.txt",
+    "public",
+    "Sans titre.canvas",
+    "Zénith/images/antipodes+_002.png",
+    "Zénith/images/antipodes+_001.png",
+    "Zénith/images/crepuscule_008.png",
+    "Zénith/images/crepuscule_007.png",
+    "Zénith/images/crepuscule_006.png",
+    "Zénith/images/crepuscule_005.png",
+    "Zénith/images/crepuscule_004.png",
+    "Zénith/images/monsters_004.png",
+    "Zénith/images/monsters_003.png",
+    "Zénith/images/crepuscule_003.png",
+    "Zénith/images",
+    "Potron-Minet/images",
+    "Parade/images",
+    "Monsters/images",
+    "Crépuscule/images"
+  ]
+}

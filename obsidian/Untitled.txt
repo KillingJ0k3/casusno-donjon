@@ -1,0 +1,23 @@
+## Tableau
+
+```base
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.hasProperty("parution")
+    order:
+      - file.name
+      - série
+      - sous-série
+      - niveau
+      - numéro
+      - parution
+      - scénario
+      - illustrations
+    sort:
+      - property: file.name
+        direction: ASC
+```
+

@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "scénario": "multitext",
+    "niveau": "number",
+    "critique/link": "multitext",
+    "parution": "text"
+  }
+}

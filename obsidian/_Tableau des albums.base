@@ -1,0 +1,25 @@
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.hasProperty("parution")
+    order:
+      - file.name
+      - série
+      - sous-série
+      - niveau
+      - numéro
+      - parution
+      - scénario
+      - critique/numéro
+      - illustrations
+    sort:
+      - property: niveau
+        direction: ASC
+    summaries: {}
+    columnSize:
+      file.name: 335
+      note.niveau: 80
+      note.numéro: 82
+      note.critique/numéro: 87
